@@ -1,7 +1,3 @@
-"""
-Assisto Technologies - LLM Assignment
-Task: Policy Document Q&A Assistant (Dataset-based)
-"""
 
 from transformers import pipeline
 from dataset_loader import load_policy_dataset
