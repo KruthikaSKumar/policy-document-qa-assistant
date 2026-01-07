@@ -1,4 +1,4 @@
-# 📘 Assisto Technologies – LLM Assignment
+# LLM Assignment
 Task Selected: Policy Document Q&A Assistant
 
 ## 📌 Problem Statement
@@ -107,7 +107,8 @@ pip install -r requirements.txt
 
 **2. Run the application:**
 
-python app.py
+python main.py
+
 3. Enter a question when prompted.
 
 ## ✅ Summary
